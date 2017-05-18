@@ -1,0 +1,2 @@
+All wannacry samples have been moved to this link
+https://github.com/fabrimagic72/malware-samples/tree/master/Ransomware/Wannacry
