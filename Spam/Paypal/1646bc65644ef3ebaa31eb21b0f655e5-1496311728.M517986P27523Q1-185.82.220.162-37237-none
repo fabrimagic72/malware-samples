@@ -1,0 +1,24 @@
+Content-Type: multipart/alternative;
+ boundary="===============7813027191875180455=="
+MIME-Version: 1.0
+Date: Thu, 01 Jun 2017 13:02:41 +0300
+From: <test@37237.s.time4vps.cloud>
+Message-Id: <dac868a2aaefa0381c58ace13321f8cd@37237.s.time4vps.cloud>
+Subject: Valid SMTP 212.24.109.48
+To: test@gmail.com
+
+--===============7813027191875180455==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+212.24.109.48:25 | no auth |  SSL: False | Hostname: 37237.s.time4vps.cloud
+
+--===============7813027191875180455==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+212.24.109.48:25 | no auth |  SSL: False | Hostname: 37237.s.time4vps.cloud
+
+--===============7813027191875180455==--

